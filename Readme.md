@@ -14,10 +14,10 @@
 ## OVERVIEW OF THE PROJECT
 
 ### PROJECT: 
-E-COMMERCE WEBSITE REDESIGN
+USER-CENTRED DESIGN FOR HEALTHCARE APP
 
 ### OBJECTIVE: 
-The objective of the task is to redesign an existing e-commerce website to improve the overall shopping experience for users. This involves optimizing key aspects of the website, including product discovery, the checkout process, and product presentation, with the goal of increasing conversion rates and enhancing user satisfaction.
+The objective of this task is to design a user-centered healthcare app to help patients manage their health conditions, track medications, and communicate with healthcare providers. This involves conducting user research to understand patient needs, creating detailed user personas to guide the design process, and ensuring that accessibility and usability are prioritized to make the app intuitive and easy to use for all users
 
 ###PROFF OF WORK:
 ![Screenshot 2024-07-15 224817](https://github.com/user-attachments/assets/387ee0d4-59c9-4143-b49a-73533c0fbea6)
